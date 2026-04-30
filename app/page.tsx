@@ -70,7 +70,7 @@ export default function Home() {
           <div className="border-3 border-gray-600 shadow-md p-5 shadow-md hover:scale-105 transition-transform duration-200">
             <h3 className="text-2xl font-bold mb-3">Project 1: Management System - E-commerce / Perfumery</h3>
             <p className="text-gray-400 text-lg mb-3">
-              A management system for a perfume e-commerce store, developed with **Next.js**, **Tailwind CSS**, **Prisma**, and **PostgreSQL**. The system includes features for product management, inventory control, and order processing.
+              A management system for a perfume e-commerce store, developed with Next.js, Tailwind CSS, Prisma, and PostgreSQL. The system includes features for product management, inventory control, and order processing.
               </p>
             <a 
               href="https://github.com/rvenzi/Next-Desafio-2026.1.git" 
@@ -179,7 +179,7 @@ export default function Home() {
           </div>
         </div>
         <p className="text-gray-600 mt-5 text-lg">
-          &copy; 2024 Renan Venzi. Todos os direitos reservados.
+          &copy; 2024 Renan Venzi. All rights reserved.
         </p>
       </footer>
     </main>
