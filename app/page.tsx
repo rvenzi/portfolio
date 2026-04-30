@@ -11,18 +11,8 @@ export default function Home() {
       <section className="p-15 max-w-7xl mx-auto">
         <h2 className="text-5xl font-bold mb-5">Welcome</h2>
         <p className="text-gray-400 text-xl mb-2.5">
-          My name is Renan Venzi, I'm from Brazil, and I'm a systems development technician with experience creating web applications from scratch to production.</p>
-
-        <p className="text-gray-400 text-xl mb-2.5">
-          Throughout my career, I've learned and deepened my knowledge in various languages ​​such as Html and CSS, Next.js, TailwindCSS, C++, Python, JavaScript, and PHP, Prisma, MySQL, PostgreeSQL developing projects that broadened my software perspective.
-        </p>
-        
-        <p className="text-gray-400 text-xl mb-2.5">
-          I was part of a Junior Computer Science company, CODE JR., for over a year and a half, where I had contact with real projects and clients.
-        </p>
-
-        <p className="text-gray-400 text-xl mb-2.5">
-          Currently, I'm studying Computer Science in UFJF and working as a freelancer seeking opportunities. I believe that the constant pursuit of knowledge is what sets me apart—each project is a new chance to learn something powerful.
+        I am a Full-Stack Developer and Computer Science student at Federal University of Juiz de Fora, Minas Gerais, Brazil, with a focus on building scalable, end-to-end web solutions. My toolkit spans from front-end excellence with Next.js and Tailwind CSS to robust back-end management using PostgreSQL, MySQL, and Prisma.
+        Having spent over a year and a half at CODE JR. working with real-market demands, I’ve learned how to turn complex problems into functional software. Whether I’m coding in C++, Python, or PHP, I approach every freelance project with a growth mindset, constantly expanding my perspective to stay at the forefront of technology. 
         </p>
 
         <section className="bg-black py-12">
@@ -78,24 +68,24 @@ export default function Home() {
         <h2 className="text-3xl font-bold mb-5">Projects</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
           <div className="border-3 border-gray-600 shadow-md p-5 shadow-md hover:scale-105 transition-transform duration-200">
-            <h3 className="text-2xl font-bold mb-3">Projeto 1: Sistema de Gerenciamento - Loja Virtual/Perfumaria</h3>
+            <h3 className="text-2xl font-bold mb-3">Project 1: Management System - E-commerce / Perfumery</h3>
             <p className="text-gray-400 text-lg mb-3">
-              Um sistema de gerenciamento para uma loja virtual de perfumes, desenvolvido com Next.js, TailwindCSS, Prisma, PostgreSQL. O sistema inclui funcionalidades para gerenciamento de produtos, controle de estoque e processamento de pedidos.
-            </p>
+              A management system for a perfume e-commerce store, developed with **Next.js**, **Tailwind CSS**, **Prisma**, and **PostgreSQL**. The system includes features for product management, inventory control, and order processing.
+              </p>
             <a 
               href="https://github.com/rvenzi/Next-Desafio-2026.1.git" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-blue-600 hover:text-blue-800 underline"
             >
-              Ver projeto no GitHub
+              View project on GitHub
             </a>
           </div>
         
           <div className="border-3 border-gray-600 shadow-md p-5 shadow-md hover:scale-105 transition-transform duration-200">
-            <h3 className="text-2xl font-bold mb-3">Projeto 2: Site de Portfólio</h3>
+            <h3 className="text-2xl font-bold mb-3">Project 2: Portfolio Website</h3>
             <p className="text-gray-400 text-lg mb-3">
-              Um site de portfólio pessoal para mostrar meus projetos e habilidades. Construído com Next.js e Tailwind CSS.
+              A personal portfolio website to showcase my projects and skills. Built with Next.js and Tailwind CSS.
             </p>
             <a 
               href="https://github.com/rvenzi/portfolio" 
@@ -103,15 +93,15 @@ export default function Home() {
               rel="noopener noreferrer"
               className="text-blue-600 hover:text-blue-800 underline"
             >
-              Ver projeto no GitHub
+              View project on GitHub
             </a>
 
           </div>
 
           <div className="border-3 border-gray-600 shadow-md p-5 shadow-md hover:scale-105 transition-transform duration-200">
-            <h3 className="text-2xl font-bold mb-3">Projeto 3: Sistema de Gerenciamento - Barbearia</h3>
+            <h3 className="text-2xl font-bold mb-3">Project 3: Management System - Barber Shop</h3>
             <p className="text-gray-400 text-lg mb-3">
-              Um sistema de gerenciamento para uma barbearia, desenvolvido no processo de capacitação em conjunto parceiros da Empresa JR., feito usando HTML, CSS, Javascript, PHP e MySQL. O sistema inclui funcionalidades para agendamento de clientes, gerenciamento de funcionários e controle de estoque.
+              A management system for a barber shop, developed during the training process with partners from CODE JR., using HTML, CSS, JavaScript, PHP, and MySQL. The system includes features for customer scheduling, employee management, and inventory control.
             </p>
             <a 
               href="https://github.com/jvrangel11/FadeClub-Trainee-2025.2.git" 
@@ -119,7 +109,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="text-blue-600 hover:text-blue-800 underline"
             >
-              Ver projeto no GitHub
+              View project on GitHub
             </a>
           </div>
         </div>
