@@ -5,7 +5,6 @@ import Hero from "@/components/hero";
 import MyProjects from "@/components/myProjects";
 import MyStack from "@/components/myStack";
 import Navbar from "@/components/navbar";
-import Image from "next/image";
 
 export default function Home() {
   return (
