@@ -1,0 +1,2 @@
+{"timestamp":"00:06:52.943","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\renan\\Desktop\\teste\\portfolio\\app'"}
+{"timestamp":"00:06:52.947","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\renan\\Desktop\\teste\\portfolio\\app'"}
