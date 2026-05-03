@@ -39,7 +39,7 @@ export default function PortfolioHero() {
           </div>
         </div>
 
-        <div className="hidden lg:flex justify-end">
+        <div className="lg:flex justify-end">
           <div className="w-[400px] h-[500px] bg-[#0a0a0a] rounded-2xl relative flex flex-col items-center justify-center group overflow-hidden">
             <Image
               src="/foto-perfil-portfolio.jpeg"
